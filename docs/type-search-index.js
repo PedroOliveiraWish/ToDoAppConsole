@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"todoappconsole","l":"ConsoleScanner"},{"p":"todoappconsole","l":"ControllerToDo"},{"p":"todoappconsole","l":"Main"},{"p":"todoappconsole","l":"ToDo"}];updateSearchResults();
