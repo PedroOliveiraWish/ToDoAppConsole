@@ -25,7 +25,7 @@ listar, marcar como concluídas, excluir tarefas e exportar a lista para um arqu
 2. Navegue até a pasta do projeto:
 
    ```bash
-   cd ToDoAppConsole
+   cd ToDoAppConsole****
    ```
 
 3. Compile os arquivos `.java`:
