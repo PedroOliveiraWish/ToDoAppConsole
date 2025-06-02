@@ -63,7 +63,7 @@ Escolha uma opção:
     ````
     ````
     Em seguida, informe se a tarefa está concluída (true / false)
-    ````****
+    ````
 
 
 * Para salvar as tarefas:
@@ -72,7 +72,7 @@ Escolha uma opção:
     Informe um nome para o arquivo (sem a extensão)
     ````
     ````
-    O arquivo será salvo na pasta **Downloads** do seu usuário
+    O arquivo será salvo na pasta Downloads do seu usuário
     ````
 
 ## 🧠 Estrutura do projeto
